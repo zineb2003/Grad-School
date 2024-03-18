@@ -1,6 +1,10 @@
 
 
 # Grad-School website
+ An educational landing website with HTML, CSS, and JavaScript, integrating interactive elements for engagement and ensuring seamless cross-browser compatibility. The result is a visually captivating online platform accessible across various devices.
+
+## View 
+ https://designtowebsite.github.io/Grad-School/site/
  
 ## Built With
 
